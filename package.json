@@ -1,0 +1,8 @@
+{
+  "name": "wvlee9-wh-bot",
+  "version": "4.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "node src/server.js", "dev": "node --watch src/server.js"},
+  "dependencies": {"dotenv": "^16.4.5", "express": "^4.21.2"}
+}
